@@ -1,8 +1,8 @@
-## Dotfiles 
+## Swayfiles 
 
-My collection of minimal, and patched, configuration files.
+My dotfiles for wayland + sway + waybar.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/fleshguard/dotfiles?style=for-the-badge&label=Size%3A&labelColor=%23020202&color=%23b2b2b2)
+![GitHub repo size](https://img.shields.io/github/repo-size/fleshguard/swayfiles?style=for-the-badge&label=SIZE&labelColor=%231a1a1a&color=%23525252)
 ## System Information:
 * OS: [Void Linux](https://voidlinux.org/)
 * Terminal Emulator: [foot](https://wiki.archlinux.org/title/Foot)
