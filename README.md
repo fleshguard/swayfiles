@@ -10,7 +10,7 @@ My dotfiles for wayland + sway + waybar.
 * Menu: [wofi](https://man.archlinux.org/man/wofi.1)
 * Notification Manager: [dunst](https://man.archlinux.org/man/dunst.1)
 ## How it will look:
-![img](/Github/gref.png)
+![img](/Github/x.png)
 ## Dependencies for Void:
 '$ xbps-install -S sway waybar dunst wofi wlogout font-firacode font-awesome font-hack-ttf noto-fonts-emoji'
 
