@@ -12,6 +12,6 @@ My dotfiles for wayland + sway + waybar.
 ## How it will look:
 ![img](/Github/sway_gruvbox_2.png)
 ## Dependencies for Void:
-'$ xbps-install -S sway waybar dunst wofi wf-recorder grimshot wlogout font-firacode font-awesome font-hack-ttf noto-fonts-emoji nerd-fonts-symbols-ttf'
+'$ xbps-install -S sway waybar dunst wofi wf-recorder grimshot wlogout font-firacode font-awesome noto-fonts-emoji nerd-fonts-symbols-ttf'
 
 
