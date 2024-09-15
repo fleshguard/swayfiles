@@ -39,8 +39,8 @@ set $menu wofi -I --show run
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output HDMI-A-2 bg /home/spacerat/Pictures/Wallpapers/Misc/Lain/lain_wallpaper_21.jpg fill
-output eDP-1 scale 1 bg /home/spacerat/Pictures/Wallpapers/Misc/Lain/lain_wallpaper_21.jpg fill
+output HDMI-A-2 bg ~/Pictures/Wallpapers/Misc/Lain/lain_wallpaper_21.jpg fill
+output eDP-1 scale 1 bg ~/Pictures/Wallpapers/Misc/Lain/lain_wallpaper_21.jpg fill
 #
 # Example configuration:
 #
